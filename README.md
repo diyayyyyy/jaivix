@@ -6,5 +6,6 @@ Official company website for **jAIvix**.
 - JavaScript
 - Bootstrap
 - Python
+- Python Flask for backend integration 
 
 © jAIvix. All rights reserved.
